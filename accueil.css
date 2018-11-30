@@ -1,0 +1,21 @@
+body {
+	background-color:;
+}
+table {
+	border : 1px solid black ; 
+	}
+img {
+	width :"120";
+	height:"60";
+	
+}
+#p1 {
+	text-align : left ;
+}
+#p2 {
+	text-align: right ;
+}
+p {
+	color:; 
+ text-align:; 
+}
